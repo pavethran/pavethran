@@ -1,27 +1,26 @@
-# DemoTwill
+# Hi, I'm Pavethran Muthukumaran
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
+Data Scientist in Berlin — 5+ years across Business Intelligence, Analytics and Machine Learning. I ship a **new data project every Sunday**, building my portfolio in public.
 
-## Development server
+**Portfolio:** [datascienceportfol.io/pavethranmuthukumara](https://www.datascienceportfol.io/pavethranmuthukumara) · **LinkedIn:** [in/pavethran-m](https://www.linkedin.com/in/pavethran-m/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Weekly projects
 
-## Code scaffolding
+| Week | Project | Stack |
+|------|---------|-------|
+| 5 | [Berlin Airbnb SQL Deep-Dive](https://github.com/pavethran/data-science-portfolio) | SQL, SQLite, CTEs, window functions |
+| 4 | [Global Superstore Dashboard (German)](https://github.com/pavethran/global-superstore-dashboard) | Python, pandas, matplotlib |
+| 3 | [Tech Layoffs EDA 2020–2026](https://github.com/pavethran/data-science-portfolio) | Python, pandas, seaborn |
+| 2 | [EU Developer Salary Prediction](https://github.com/pavethran/data-science-portfolio) | scikit-learn, XGBoost, SHAP |
+| 1 | [Indian Developer Compensation 2025](https://github.com/pavethran/data-science-portfolio) | Tableau, Excel |
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Stack
 
-## Build
+**Core:** Python · SQL · Machine Learning  
+**ML:** scikit-learn · XGBoost · SHAP  
+**BI:** Power BI · Tableau · Excel  
+**Infra:** Docker · Kubernetes · AWS
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+MSc Data Science · AWS Certified
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Open to Data Analyst / Data Scientist roles in Berlin & DACH, and freelance analytics projects — pavethranmuthukumaran@gmail.com
