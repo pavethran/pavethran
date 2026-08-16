@@ -1,6 +1,6 @@
 # Hi, I'm Pavethran Muthukumaran
 
-Data Scientist in Berlin — 5+ years across Business Intelligence, Analytics and Machine Learning. I ship a **new data project every Sunday**, building my portfolio in public.
+Data Scientist in Berlin — 3+ years across Business Intelligence, Analytics and Machine Learning. I ship a **new data project every Sunday**, building my portfolio in public.
 
 **Portfolio:** [datascienceportfol.io/pavethranmuthukumara](https://www.datascienceportfol.io/pavethranmuthukumara) · **LinkedIn:** [in/pavethran-m](https://www.linkedin.com/in/pavethran-m/)
 
